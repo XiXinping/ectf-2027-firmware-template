@@ -1,0 +1,1167 @@
+     VMA      LMA     Size Align Out     In      Symbol
+       0        0        0     1 _stack_start = ORIGIN(RAM) + LENGTH(RAM)
+   3a400    3a400     1e78     8 .rodata
+   3a400    3a400       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.1)
+   3a410    3a410       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.2)
+   3a420    3a420      18c     4         <internal>:(.rodata.str1.4)
+   3a5ac    3a5ac       17     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.8)
+   3a5c4    3a5c4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.9)
+   3a5d4    3a5d4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.12)
+   3a5e4    3a5e4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.13)
+   3a5f4    3a5f4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.14)
+   3a604    3a604       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.15)
+   3a614    3a614       26     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.16)
+   3a63c    3a63c       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.17)
+   3a64c    3a64c       2d     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.23)
+   3a67c    3a67c       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.24)
+   3a68c    3a68c       22     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.25)
+   3a6b0    3a6b0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.26)
+   3a6c0    3a6c0       1f     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.27)
+   3a6df    3a6df       18     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.28)
+   3a6f8    3a6f8       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.29)
+   3a708    3a708        f     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.32)
+   3a718    3a718       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.33)
+   3a728    3a728       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.34)
+   3a738    3a738       13     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.35)
+   3a74c    3a74c       38     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.36)
+   3a784    3a784       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.37)
+   3a794    3a794       1c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.38)
+   3a7b0    3a7b0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.39)
+   3a7c0    3a7c0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.40)
+   3a7d0    3a7d0       11     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.41)
+   3a7e4    3a7e4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.42)
+   3a7f4    3a7f4       15     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.43)
+   3a80c    3a80c       3f     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.44)
+   3a84c    3a84c       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.47)
+   3a85c    3a85c       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.48)
+   3a86c    3a86c       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.49)
+   3a87c    3a87c       17     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.50)
+   3a893    3a893       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.51)
+   3a8ac    3a8ac       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.52)
+   3a8c4    3a8c4       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.53)
+   3a8dc    3a8dc       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.54)
+   3a8f4    3a8f4      422     1         <internal>:(.rodata.str1.1)
+   3ad18    3ad18       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.60)
+   3ad28    3ad28        f     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.61)
+   3ad37    3ad37        c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.62)
+   3ad44    3ad44       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.63)
+   3ad54    3ad54       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.64)
+   3ad64    3ad64        a     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.65)
+   3ad6e    3ad6e        a     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.66)
+   3ad78    3ad78        e     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.76ddde62edcdf994453b438954b11661.67)
+   3ad88    3ad88       10     4         <internal>:(.rodata.cst8)
+   3ad98    3ad98       60     4         <internal>:(.rodata.cst16)
+   3adf8    3adf8       c8     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.669c5484bd95a18b75c36777008cb479.193)
+   3aec0    3aec0        2     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.669c5484bd95a18b75c36777008cb479.397)
+   3aec2    3aec2        c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.669c5484bd95a18b75c36777008cb479.443)
+   3aece    3aece        2     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.669c5484bd95a18b75c36777008cb479.444)
+   3aed0    3aed0       18     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.669c5484bd95a18b75c36777008cb479.520)
+   3aee8    3aee8       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.0)
+   3af10    3af10       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.4)
+   3af20    3af20       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.5)
+   3af48    3af48       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.14)
+   3af70    3af70       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.18)
+   3af98    3af98       a0     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.19)
+   3b038    3b038       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.450c19e822253c086a72f577fa60fad9.24)
+   3b048    3b048       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.561887e475be83eeb4ad96b31b2d48c3.1)
+   3b060    3b060        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.561887e475be83eeb4ad96b31b2d48c3.2)
+   3b061    3b061        e     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.561887e475be83eeb4ad96b31b2d48c3.6)
+   3b070    3b070       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.561887e475be83eeb4ad96b31b2d48c3.8)
+   3b080    3b080       1e     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.1f74fce9d9e71cb800170e8838b3d26e.0)
+   3b0a0    3b0a0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.1f74fce9d9e71cb800170e8838b3d26e.2)
+   3b0b0    3b0b0       1c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.1f74fce9d9e71cb800170e8838b3d26e.3)
+   3b0cc    3b0cc       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.1f74fce9d9e71cb800170e8838b3d26e.4)
+   3b0dc    3b0dc       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.1f74fce9d9e71cb800170e8838b3d26e.6)
+   3b0ec    3b0ec       2b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.1)
+   3b118    3b118       80     8         <internal>:(.rodata.cst32)
+   3b198    3b198       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.3)
+   3b1b0    3b1b0       14     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.4)
+   3b1c4    3b1c4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.6)
+   3b1d4    3b1d4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.7)
+   3b1e4    3b1e4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.9)
+   3b1f4    3b1f4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.10)
+   3b204    3b204       60     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.15)
+   3b264    3b264      640     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.16)
+   3b8a4    3b8a4      320     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.17)
+   3bbc4    3bbc4      320     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.18)
+   3bee4    3bee4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.20)
+   3bef4    3bef4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.21)
+   3bf04    3bf04       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.22)
+   3bf14    3bf14       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.23)
+   3bf24    3bf24       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.26)
+   3bf34    3bf34       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.30)
+   3bf44    3bf44       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.32)
+   3bf54    3bf54       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.33)
+   3bf64    3bf64       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.34)
+   3bf74    3bf74       1f     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.35)
+   3bf93    3bf93       1c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.36)
+   3bfb0    3bfb0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.37)
+   3bfc0    3bfc0       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.38)
+   3bfd0    3bfd0       29     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.42)
+   3bff9    3bff9       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.43)
+   3c00f    3c00f       17     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.44)
+   3c026    3c026        d     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.45)
+   3c033    3c033       12     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.46)
+   3c045    3c045       1d     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.47)
+   3c062    3c062       11     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.48)
+   3c073    3c073        f     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.49)
+   3c082    3c082       1d     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.50)
+   3c09f    3c09f       12     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.51)
+   3c0b1    3c0b1       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.52)
+   3c0c7    3c0c7       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.53)
+   3c0dd    3c0dd        b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.54)
+   3c0e8    3c0e8        b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.57)
+   3c0f3    3c0f3       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.58)
+   3c109    3c109       16     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.59)
+   3c11f    3c11f       17     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.60)
+   3c136    3c136       1c     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.62)
+   3c152    3c152       1d     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.63)
+   3c16f    3c16f       1b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.65)
+   3c18a    3c18a        5     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.76)
+   3c18f    3c18f       11     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.78)
+   3c1a0    3c1a0        b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.79)
+   3c1ab    3c1ab        6     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.80)
+   3c1b1    3c1b1        a     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.91fe8e7af06f3591e7cdf09a53749b95.81)
+   3c1c0    3c1c0       40     8         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e6085f03b96ad0a8e49783ec20e14dbe.0)
+   3c200    3c200       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e58c7c1913b3cde3c94f8499a560a475.9)
+   3c210    3c210       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e58c7c1913b3cde3c94f8499a560a475.10)
+   3c220    3c220       1e     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e58c7c1913b3cde3c94f8499a560a475.16)
+   3c240    3c240       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e58c7c1913b3cde3c94f8499a560a475.18)
+   3c250    3c250        6     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.e58c7c1913b3cde3c94f8499a560a475.19)
+   3c258    3c258       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lanon.bcb5b09d9d013bd811a7f8836b2ceca5.0)
+   3c268    3c268        3     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lswitch.table._RNvXs1_NtCsixPfvnxjpQ4_22ectf_firmware_template6randomNtB5_8RngErrorNtNtCsbAcUeWOp6Jo_4core3fmt5Debug3fmt)
+   3c26c    3c26c        c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.rodata..Lswitch.table._RNvXs1_NtCsixPfvnxjpQ4_22ectf_firmware_template6randomNtB5_8RngErrorNtNtCsbAcUeWOp6Jo_4core3fmt5Debug3fmt.220)
+   3c278    3c278        0     1         . = ALIGN(4)
+   3c278    3c278        0     1 PROVIDE(SVCall = DefaultHandler)
+   3c278    3c278        0     1 PROVIDE(PendSV = DefaultHandler)
+   3c278    3c278        0     1 PROVIDE(SysTick = DefaultHandler)
+   3c278    3c278        0     1 PROVIDE(DefaultHandler = DefaultHandler_)
+   3c278    3c278        0     1 PROVIDE(HardFault = HardFault_)
+   3c278    3c278        0     1 PROVIDE(__pre_init = DefaultPreInit)
+   3c278    3c278        0     1 PROVIDE(_ram_end = ORIGIN(RAM) + LENGTH(RAM))
+    6000     6000       c0     4 .vector_table
+    6000     6000        0     1         __vector_table = .
+    6000     6000        4     1         LONG(_stack_start & 0xFFFFFFF8)
+    6004     6004        4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.vector_table.reset_vector)
+    6004     6004        4     1                 __RESET_VECTOR
+    6008     6008        0     1         __exceptions = .
+    6008     6008       38     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.vector_table.exceptions)
+    6008     6008       38     1                 __EXCEPTIONS
+    6040     6040        0     1         __eexceptions = .
+    6040     6040       80     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.vector_table.interrupts)
+    6040     6040       80     1                 __INTERRUPTS
+    60c0     60c0        0     1 PROVIDE(_stext = ADDR(.vector_table) + SIZEOF(.vector_table))
+    60c0     60c0    1ef10     4 .text
+    60c0     60c0        0     1         __stext = .
+    60c0     60c0       3c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.Reset)
+    60c0     60c0        0     1                 $t
+    60c1     60c1       28     1                 Reset
+    60e8     60e8        0     1                 $d
+    60fc     60fc       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.NonMaskableInt)
+    60fc     60fc        0     1                 $t
+    60fd     60fd       10     1                 NonMaskableInt
+    6108     6108        0     1                 $d
+    610c     610c      102     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvMs4_NtCsixPfvnxjpQ4_22ectf_firmware_template17secure_filesystemNtB6_10Filesystem10write_fileNtNtB8_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    610c     610c        0     1                 $t
+    610d     610d      102     1                 <ectf_firmware_template::secure_filesystem::Filesystem>::write_file::<ectf_firmware_template::flash::HwFlash>
+    6210     6210       90     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsbAcUeWOp6Jo_4core3ptr9drop_glueINtNtCs92UkCUUqvBC_13embassy_mspm04uart4UartNtNtBG_4mode8BlockingEECskE0c7qbYttx_22ectf_firmware_template)
+    6210     6210        0     1                 $t
+    6211     6211       90     1                 core::ptr::drop_glue::<embassy_mspm0::uart::Uart<embassy_mspm0::mode::Blocking>>
+    6298     6298        0     1                 $d
+    62a0     62a0        6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsbAcUeWOp6Jo_4core3ptr9drop_glueINtNtCscnJvzfomVjA_8heapless6string11StringInnerjINtNtNtBG_3vec7storage15VecStorageInnerAINtNtNtB4_3mem12maybe_uninit11MaybeUninithEj14_EEECskE0c7qbYttx_22ectf_firmware_template)
+    62a0     62a0        0     1                 $t
+    62a1     62a1        6     1                 core::ptr::drop_glue::<heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 20]>>>
+    62a8     62a8       88     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCscnJvzfomVjA_8heapless6string6formatKj40_jECskE0c7qbYttx_22ectf_firmware_template)
+    62a8     62a8        0     1                 $t
+    62a9     62a9       88     1                 heapless::string::format::<64, usize>
+    6328     6328        0     1                 $d
+    6330     6330       80     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCscnJvzfomVjA_8heapless6string6formatKj80_jECskE0c7qbYttx_22ectf_firmware_template)
+    6330     6330        0     1                 $t
+    6331     6331       80     1                 heapless::string::format::<128, usize>
+    63a8     63a8        0     1                 $d
+    63b0     63b0       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsftdv0qvhRq6_5defmt6export3fmtNtNtCs92UkCUUqvBC_13embassy_mspm04uart11ConfigErrorECskE0c7qbYttx_22ectf_firmware_template)
+    63b0     63b0        0     1                 $t
+    63b1     63b1       28     1                 defmt::export::fmt::<embassy_mspm0::uart::ConfigError>
+    63d4     63d4        0     1                 $d
+    63d8     63d8      550     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template6crypto27asymmetric_encrypt_in_placeKj20c0_ECskE0c7qbYttx_22ectf_firmware_template)
+    63d8     63d8        0     1                 $t
+    63d9     63d9      550     1                 ectf_firmware_template::crypto::asymmetric_encrypt_in_place::<8384>
+    67c8     67c8        0     1                 $d
+    67cc     67cc        0     1                 $t
+    6914     6914        0     1                 $d
+    6928     6928      624     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command10cmd_listenNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    6928     6928        0     1                 $t
+    6929     6929      624     1                 ectf_firmware_template::command::cmd_listen::<ectf_firmware_template::flash::HwFlash>
+    6cb8     6cb8        0     1                 $d
+    6cec     6cec        0     1                 $t
+    6ed0     6ed0        0     1                 $d
+    6f4c     6f4c      384     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command11cmd_receiveNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    6f4c     6f4c        0     1                 $t
+    6f4d     6f4d      384     1                 ectf_firmware_template::command::cmd_receive::<ectf_firmware_template::flash::HwFlash>
+    7110     7110        0     1                 $d
+    7120     7120        0     1                 $t
+    726c     726c        0     1                 $d
+    72d0     72d0       f8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command14handle_commandNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    72d0     72d0        0     1                 $t
+    72d1     72d1       f8     1                 ectf_firmware_template::command::handle_command::<ectf_firmware_template::flash::HwFlash>
+    72f0     72f0        0     1                 $d
+    7344     7344        0     1                 $t
+    73c0     73c0        0     1                 $d
+    73c8     73c8      214     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command8cmd_listNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    73c8     73c8        0     1                 $t
+    73c9     73c9      214     1                 ectf_firmware_template::command::cmd_list::<ectf_firmware_template::flash::HwFlash>
+    75b4     75b4        0     1                 $d
+    75dc     75dc      380     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command8cmd_readNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    75dc     75dc        0     1                 $t
+    75dd     75dd      380     1                 ectf_firmware_template::command::cmd_read::<ectf_firmware_template::flash::HwFlash>
+    78e0     78e0        0     1                 $d
+    795c     795c     228c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsixPfvnxjpQ4_22ectf_firmware_template7command9cmd_writeNtNtB4_5flash7HwFlashECskE0c7qbYttx_22ectf_firmware_template)
+    795c     795c        0     1                 $t
+    795d     795d     228c     1                 ectf_firmware_template::command::cmd_write::<ectf_firmware_template::flash::HwFlash>
+    7a74     7a74        0     1                 $d
+    7a84     7a84        0     1                 $t
+    7bec     7bec        0     1                 $d
+    7c60     7c60        0     1                 $t
+    7e64     7e64        0     1                 $d
+    7e98     7e98        0     1                 $t
+    8310     8310        0     1                 $d
+    8338     8338        0     1                 $t
+    889c     889c        0     1                 $d
+    88bc     88bc        0     1                 $t
+    893c     893c        0     1                 $d
+    8944     8944        0     1                 $t
+    8958     8958        0     1                 $d
+    895c     895c        0     1                 $t
+    8c38     8c38        0     1                 $d
+    8cb0     8cb0        0     1                 $t
+    8efc     8efc        0     1                 $d
+    8f24     8f24        0     1                 $t
+    9074     9074        0     1                 $d
+    907c     907c        0     1                 $t
+    9134     9134        0     1                 $d
+    9138     9138        0     1                 $t
+    91f8     91f8        0     1                 $d
+    920c     920c        0     1                 $t
+    936c     936c        0     1                 $d
+    9384     9384        0     1                 $t
+    9778     9778        0     1                 $d
+    979c     979c        0     1                 $t
+    9b90     9b90        0     1                 $d
+    9be8     9be8      a74     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvCskE0c7qbYttx_22ectf_firmware_template18___cortex_m_rt_main)
+    9be8     9be8        0     1                 $t
+    9be9     9be9      a74     1                 ectf_firmware_template::__cortex_m_rt_main
+    9c0c     9c0c        0     1                 $d
+    9c18     9c18        0     1                 $t
+    9ca4     9ca4        0     1                 $d
+    9cdc     9cdc        0     1                 $t
+    9d60     9d60        0     1                 $d
+    9d84     9d84        0     1                 $t
+    9df0     9df0        0     1                 $d
+    9e18     9e18        0     1                 $t
+    9e3c     9e3c        0     1                 $d
+    9e48     9e48        0     1                 $t
+    9f5c     9f5c        0     1                 $d
+    9f60     9f60        0     1                 $t
+    a134     a134        0     1                 $d
+    a1c0     a1c0        0     1                 $t
+    a570     a570        0     1                 $d
+    a65c     a65c       24     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1_NtCsixPfvnxjpQ4_22ectf_firmware_template6randomNtB5_8RngErrorNtNtCsbAcUeWOp6Jo_4core3fmt5Debug3fmt)
+    a65c     a65c        0     1                 $t
+    a65d     a65d       24     1                 <ectf_firmware_template::random::RngError as core::fmt::Debug>::fmt
+    a678     a678        0     1                 $d
+    a680     a680       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsK_NtCsbAcUeWOp6Jo_4core3fmtNtB5_5ErrorNtB5_5Debug3fmt)
+    a680     a680        0     1                 $t
+    a681     a681       14     1                 <core::fmt::Error as core::fmt::Debug>::fmt
+    a690     a690        0     1                 $d
+    a694     a694       b6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj14_EENtNtB1G_3fmt5Write10write_charCskE0c7qbYttx_22ectf_firmware_template)
+    a694     a694        0     1                 $t
+    a695     a695       b6     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 20]>> as core::fmt::Write>::write_char
+    a74a     a74a       2a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj14_EENtNtB1G_3fmt5Write9write_strCskE0c7qbYttx_22ectf_firmware_template)
+    a74a     a74a        0     1                 $t
+    a74b     a74b       2a     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 20]>> as core::fmt::Write>::write_str
+    a774     a774       b6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj40_EENtNtB1G_3fmt5Write10write_charCskE0c7qbYttx_22ectf_firmware_template)
+    a774     a774        0     1                 $t
+    a775     a775       b6     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 64]>> as core::fmt::Write>::write_char
+    a82a     a82a       2a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj40_EENtNtB1G_3fmt5Write9write_strCskE0c7qbYttx_22ectf_firmware_template)
+    a82a     a82a        0     1                 $t
+    a82b     a82b       2a     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 64]>> as core::fmt::Write>::write_str
+    a854     a854       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYINtNtCscnJvzfomVjA_8heapless6string11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj14_EENtNtB1A_3fmt5Write9write_fmtCskE0c7qbYttx_22ectf_firmware_template)
+    a854     a854        0     1                 $t
+    a855     a855       14     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 20]>> as core::fmt::Write>::write_fmt
+    a864     a864        0     1                 $d
+    a868     a868       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYINtNtCscnJvzfomVjA_8heapless6string11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj40_EENtNtB1A_3fmt5Write9write_fmtCskE0c7qbYttx_22ectf_firmware_template)
+    a868     a868        0     1                 $t
+    a869     a869       14     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 64]>> as core::fmt::Write>::write_fmt
+    a878     a878        0     1                 $d
+    a87c     a87c       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYINtNtCscnJvzfomVjA_8heapless6string11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj80_EENtNtB1A_3fmt5Write9write_fmtCskE0c7qbYttx_22ectf_firmware_template)
+    a87c     a87c        0     1                 $t
+    a87d     a87d       14     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 128]>> as core::fmt::Write>::write_fmt
+    a88c     a88c        0     1                 $d
+    a890     a890        8     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.main)
+    a890     a890        0     1                 $t
+    a891     a891        8     1                 main
+    a898     a898       10     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1i_NtCsbAcUeWOp6Jo_4core3fmtReNtB6_7Display3fmtB8_)
+    a898     a898        0     1                 $t
+    a899     a899       10     1                 <&str as core::fmt::Display>::fmt
+    a8a8     a8a8       10     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1g_NtCsbAcUeWOp6Jo_4core3fmtRDNtB6_5DebugEL_Bx_3fmtB8_)
+    a8a8     a8a8        0     1                 $t
+    a8a9     a8a9       10     1                 <&dyn core::fmt::Debug as core::fmt::Debug>::fmt
+    a8b8     a8b8       1a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core9panicking9panic_fmt)
+    a8b8     a8b8        0     1                 $t
+    a8b9     a8b9       1a     1                 core::panicking::panic_fmt
+    a8d4     a8d4      14c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsbAcUeWOp6Jo_4core3fmt5write)
+    a8d4     a8d4        0     1                 $t
+    a8d5     a8d5      14c     1                 core::fmt::write
+    aa1c     aa1c        0     1                 $d
+    aa20     aa20      5a8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsa_NtCsbAcUeWOp6Jo_4core3fmtNtB5_9Formatter3pad)
+    aa20     aa20        0     1                 $t
+    aa21     aa21      5a8     1                 <core::fmt::Formatter>::pad
+    aecc     aecc        0     1                 $d
+    aed0     aed0        0     1                 $t
+    afb4     afb4        0     1                 $d
+    afc8     afc8      1d0     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsa_NtCsbAcUeWOp6Jo_4core3fmtNtB5_9Formatter12pad_integral)
+    afc8     afc8        0     1                 $t
+    afc9     afc9      1d0     1                 <core::fmt::Formatter>::pad_integral
+    b084     b084        0     1                 $d
+    b088     b088        0     1                 $t
+    b18c     b18c        0     1                 $d
+    b198     b198       3a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNvMsa_NtCsbAcUeWOp6Jo_4core3fmtNtB7_9Formatter12pad_integral12write_prefix)
+    b198     b198        0     1                 $t
+    b199     b199       3a     1                 <core::fmt::Formatter>::pad_integral::write_prefix
+    b1d4     b1d4       78     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtNtCsbAcUeWOp6Jo_4core5slice5index16slice_index_fail)
+    b1d4     b1d4        0     1                 $t
+    b1d5     b1d5       78     1                 core::slice::index::slice_index_fail
+    b23c     b23c        0     1                 $d
+    b24c     b24c        c     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core9panicking5panic)
+    b24c     b24c        0     1                 $t
+    b24d     b24d        c     1                 core::panicking::panic
+    b258     b258       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core9panicking18panic_bounds_check)
+    b258     b258        0     1                 $t
+    b259     b259       28     1                 core::panicking::panic_bounds_check
+    b278     b278        0     1                 $d
+    b280     b280       fc     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs8_NtNtNtCsbAcUeWOp6Jo_4core3fmt3num3impmNtB9_7Display3fmt)
+    b280     b280        0     1                 $t
+    b281     b281       fc     1                 <u32 as core::fmt::Display>::fmt
+    b36c     b36c        0     1                 $d
+    b37c     b37c       20     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core4cell22panic_already_borrowed)
+    b37c     b37c        0     1                 $t
+    b37d     b37d       20     1                 core::cell::panic_already_borrowed
+    b394     b394        0     1                 $d
+    b39c     b39c       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsr_NtCsbAcUeWOp6Jo_4core4cellNtB5_14BorrowMutErrorNtNtB7_3fmt7Display3fmt)
+    b39c     b39c        0     1                 $t
+    b39d     b39d       14     1                 <core::cell::BorrowMutError as core::fmt::Display>::fmt
+    b3ac     b3ac        0     1                 $d
+    b3b0     b3b0       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core6option13expect_failed)
+    b3b0     b3b0        0     1                 $t
+    b3b1     b3b1       28     1                 core::option::expect_failed
+    b3d0     b3d0        0     1                 $d
+    b3d8     b3d8       34     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely._RNvNtCsbAcUeWOp6Jo_4core6result13unwrap_failed)
+    b3d8     b3d8        0     1                 $t
+    b3d9     b3d9       34     1                 core::result::unwrap_failed
+    b400     b400        0     1                 $d
+    b40c     b40c       70     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXNtNtNtCsbAcUeWOp6Jo_4core3fmt3num3imphNtB6_7Display3fmt)
+    b40c     b40c        0     1                 $t
+    b40d     b40d       70     1                 <u8 as core::fmt::Display>::fmt
+    b478     b478        0     1                 $d
+    b47c     b47c       6c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsm_NtNtCsbAcUeWOp6Jo_4core3fmt3numtNtB7_8LowerHex3fmt)
+    b47c     b47c        0     1                 $t
+    b47d     b47d       6c     1                 <u16 as core::fmt::LowerHex>::fmt
+    b4e0     b4e0        0     1                 $d
+    b4e8     b4e8        6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.DefaultHandler_)
+    b4e8     b4e8        0     1                 $t
+    b4e9     b4e9        6     1                 DefaultHandler_
+    b4ee     b4ee        6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.DefaultPreInit)
+    b4ee     b4ee        0     1                 $t
+    b4ef     b4ef        6     1                 DefaultPreInit
+    b4ef     b4ef        6     1                 __defmt_default_timestamp
+    b4f4     b4f4       10     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvCsfaRj3qujEb8_6subtle9black_boxhECs1rllwU1xbW0_16curve25519_dalek)
+    b4f4     b4f4        0     1                 $t
+    b4f5     b4f5       10     1                 subtle::black_box::<u8>
+    b504     b504      d18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsl_NtCs1rllwU1xbW0_16curve25519_dalek6scalarNtB5_6Scalar6reduce)
+    b504     b504        0     1                 $t
+    b505     b505      d18     1                 <curve25519_dalek::scalar::Scalar>::reduce
+    b904     b904        0     1                 $d
+    b934     b934        0     1                 $t
+    bd34     bd34        0     1                 $d
+    bd6c     bd6c        0     1                 $t
+    c16c     c16c        0     1                 $d
+    c184     c184        0     1                 $t
+    c1f8     c1f8        0     1                 $d
+    c21c     c21c      160     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsl_NtCs1rllwU1xbW0_16curve25519_dalek6scalarNtB5_6Scalar6unpack)
+    c21c     c21c        0     1                 $t
+    c21d     c21d      160     1                 <curve25519_dalek::scalar::Scalar>::unpack
+    c378     c378        0     1                 $d
+    c37c     c37c      178     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs1_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u326scalarNtB5_8Scalar293sub)
+    c37c     c37c        0     1                 $t
+    c37d     c37d      178     1                 <curve25519_dalek::backend::serial::u32::scalar::Scalar29>::sub
+    c4c8     c4c8        0     1                 $d
+    c4f4     c4f4      29a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs8_CsfaRj3qujEb8_6subtleShNtB5_14ConstantTimeEq5ct_eqCs1rllwU1xbW0_16curve25519_dalek)
+    c4f4     c4f4        0     1                 $t
+    c4f5     c4f5      29a     1                 <[u8] as subtle::ConstantTimeEq>::ct_eq
+    c790     c790      454     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCs1rllwU1xbW0_16curve25519_dalek6scalarNtB2_6Scalar25from_bytes_mod_order_wide)
+    c790     c790        0     1                 $t
+    c791     c791      454     1                 <curve25519_dalek::scalar::Scalar>::from_bytes_mod_order_wide
+    cbd8     cbd8        0     1                 $d
+    cbe4     cbe4      cc4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs1_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u326scalarNtB5_8Scalar2914montgomery_mul)
+    cbe4     cbe4        0     1                 $t
+    cbe5     cbe5      cc4     1                 <curve25519_dalek::backend::serial::u32::scalar::Scalar29>::montgomery_mul
+    d02c     d02c        0     1                 $d
+    d044     d044        0     1                 $t
+    d440     d440        0     1                 $d
+    d458     d458        0     1                 $t
+    d870     d870        0     1                 $d
+    d87c     d87c        0     1                 $t
+    d898     d898        0     1                 $d
+    d8a8     d8a8      be8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs0_NtCs1rllwU1xbW0_16curve25519_dalek7edwardsNtB5_18CompressedEdwardsY10decompress)
+    d8a8     d8a8        0     1                 $t
+    d8a9     d8a9      be8     1                 <curve25519_dalek::edwards::CompressedEdwardsY>::decompress
+    dd2c     dd2c        0     1                 $d
+    dd44     dd44        0     1                 $t
+    e1c8     e1c8        0     1                 $d
+    e1e0     e1e0        0     1                 $t
+    e47c     e47c        0     1                 $d
+    e490     e490      174     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs7_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldNtB5_16FieldElement262510from_bytes)
+    e490     e490        0     1                 $t
+    e491     e491      174     1                 <curve25519_dalek::backend::serial::u32::field::FieldElement2625>::from_bytes
+    e5fc     e5fc        0     1                 $d
+    e604     e604      570     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs7_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldNtB5_16FieldElement262512square_inner)
+    e604     e604        0     1                 $t
+    e605     e605      570     1                 <curve25519_dalek::backend::serial::u32::field::FieldElement2625>::square_inner
+    eb74     eb74      a40     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs4_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldRNtB5_16FieldElement2625NtNtNtCsbAcUeWOp6Jo_4core3ops5arith3Mul3mul)
+    eb74     eb74        0     1                 $t
+    eb75     eb75      a40     1                 <&curve25519_dalek::backend::serial::u32::field::FieldElement2625 as core::ops::arith::Mul>::mul
+    f55c     f55c        0     1                 $d
+    f560     f560        0     1                 $t
+    f5ac     f5ac        0     1                 $d
+    f5b4     f5b4      538     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs1_NtCs1rllwU1xbW0_16curve25519_dalek5fieldNtNtNtNtNtB7_7backend6serial3u325field16FieldElement26258pow22501)
+    f5b4     f5b4        0     1                 $t
+    f5b5     f5b5      538     1                 <curve25519_dalek::backend::serial::u32::field::FieldElement2625>::pow22501
+    fa08     fa08        0     1                 $d
+    fa10     fa10        0     1                 $t
+    fae4     fae4        0     1                 $d
+    faec     faec      244     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs7_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldNtB5_16FieldElement26255pow2k)
+    faec     faec        0     1                 $t
+    faed     faed      244     1                 <curve25519_dalek::backend::serial::u32::field::FieldElement2625>::pow2k
+    fd28     fd28        0     1                 $d
+    fd30     fd30      228     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs7_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldNtB5_16FieldElement26258as_bytes)
+    fd30     fd30        0     1                 $t
+    fd31     fd31      228     1                 <curve25519_dalek::backend::serial::u32::field::FieldElement2625>::as_bytes
+    ff50     ff50        0     1                 $d
+    ff58     ff58       68     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs_NtNtNtCsbAcUeWOp6Jo_4core4iter8adapters3revINtB4_3RevINtNtB6_3map3MapINtNtNtBa_3ops5range5RangejENCNvMsl_NtCs1rllwU1xbW0_16curve25519_dalek6scalarNtB1L_6Scalar7bits_le0EENtNtNtB8_6traits8iterator8Iterator3nthB1N_)
+    ff58     ff58        0     1                 $t
+    ff59     ff59       68     1                 <core::iter::adapters::rev::Rev<core::iter::adapters::map::Map<core::ops::range::Range<usize>, <curve25519_dalek::scalar::Scalar>::bits_le::{closure#0}>> as core::iter::traits::iterator::Iterator>::nth
+    ffbc     ffbc        0     1                 $d
+    ffc0     ffc0      188     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs2_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u325fieldRNtB5_16FieldElement2625NtNtNtCsbAcUeWOp6Jo_4core3ops5arith3Sub3sub)
+    ffc0     ffc0        0     1                 $t
+    ffc1     ffc1      188     1                 <&curve25519_dalek::backend::serial::u32::field::FieldElement2625 as core::ops::arith::Sub>::sub
+   10134    10134        0     1                 $d
+   10148    10148      2d4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs2_NtCs1rllwU1xbW0_16curve25519_dalek6windowINtB5_11LookupTableNtNtNtNtB7_7backend6serial12curve_models20ProjectiveNielsPointE6selectB7_)
+   10148    10148        0     1                 $t
+   10149    10149      2d4     1                 <curve25519_dalek::window::LookupTable<curve25519_dalek::backend::serial::curve_models::ProjectiveNielsPoint>>::select
+   10404    10404        0     1                 $d
+   1041c    1041c      4d4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs9_NtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial12curve_modelsRNtNtBb_7edwards12EdwardsPointINtNtNtCsbAcUeWOp6Jo_4core3ops5arith3AddRNtB5_20ProjectiveNielsPointE3add)
+   1041c    1041c        0     1                 $t
+   1041d    1041d      4d4     1                 <&curve25519_dalek::edwards::EdwardsPoint as core::ops::arith::Add<&curve25519_dalek::backend::serial::curve_models::ProjectiveNielsPoint>>::add
+   108dc    108dc        0     1                 $d
+   108f0    108f0      b04     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs8_NtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial12curve_modelsNtB5_15ProjectivePoint6double)
+   108f0    108f0        0     1                 $t
+   108f1    108f1      b04     1                 <curve25519_dalek::backend::serial::curve_models::ProjectivePoint>::double
+   10ec4    10ec4        0     1                 $d
+   10ed8    10ed8        0     1                 $t
+   11314    11314        0     1                 $d
+   11320    11320        0     1                 $t
+   113e0    113e0        0     1                 $d
+   113f4    113f4      1f2     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs4_NtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial12curve_modelsNtB5_20ProjectiveNielsPointNtCsfaRj3qujEb8_6subtle23ConditionallySelectable18conditional_assign)
+   113f4    113f4        0     1                 $t
+   113f5    113f5      1f2     1                 <curve25519_dalek::backend::serial::curve_models::ProjectiveNielsPoint as subtle::ConditionallySelectable>::conditional_assign
+   115e8    115e8      48c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs0_NtCs1rllwU1xbW0_16curve25519_dalek6windowINtB5_15NafLookupTable5NtNtNtNtB7_7backend6serial12curve_models20ProjectiveNielsPointEINtNtCsbAcUeWOp6Jo_4core7convert4FromRNtNtB7_7edwards12EdwardsPointE4from)
+   115e8    115e8        0     1                 $t
+   115e9    115e9      48c     1                 <curve25519_dalek::window::NafLookupTable5<curve25519_dalek::backend::serial::curve_models::ProjectiveNielsPoint> as core::convert::From<&curve25519_dalek::edwards::EdwardsPoint>>::from
+   11810    11810        0     1                 $d
+   11818    11818        0     1                 $t
+   11a58    11a58        0     1                 $d
+   11a74    11a74      518     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsa_NtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial12curve_modelsRNtNtBb_7edwards12EdwardsPointINtNtNtCsbAcUeWOp6Jo_4core3ops5arith3SubRNtB5_20ProjectiveNielsPointE3sub)
+   11a74    11a74        0     1                 $t
+   11a75    11a75      518     1                 <&curve25519_dalek::edwards::EdwardsPoint as core::ops::arith::Sub<&curve25519_dalek::backend::serial::curve_models::ProjectiveNielsPoint>>::sub
+   11f78    11f78        0     1                 $d
+   11f8c    11f8c      1f4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsq_NtCs1rllwU1xbW0_16curve25519_dalek7edwardsNtB5_12EdwardsPoint14is_small_order)
+   11f8c    11f8c        0     1                 $t
+   11f8d    11f8d      1f4     1                 <curve25519_dalek::edwards::EdwardsPoint>::is_small_order
+   1217c    1217c        0     1                 $d
+   12180    12180     198c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs1_NtNtNtNtCs1rllwU1xbW0_16curve25519_dalek7backend6serial3u326scalarNtB5_8Scalar293mul)
+   12180    12180        0     1                 $t
+   12181    12181     198c     1                 <curve25519_dalek::backend::serial::u32::scalar::Scalar29>::mul
+   125c8    125c8        0     1                 $d
+   125e0    125e0        0     1                 $t
+   129dc    129dc        0     1                 $d
+   129f4    129f4        0     1                 $t
+   12e0c    12e0c        0     1                 $d
+   12e24    12e24        0     1                 $t
+   1322c    1322c        0     1                 $d
+   13260    13260        0     1                 $t
+   13654    13654        0     1                 $d
+   136a4    136a4        0     1                 $t
+   13ab8    13ab8        0     1                 $d
+   13ac4    13ac4        0     1                 $t
+   13adc    13adc        0     1                 $d
+   13b0c    13b0c       1e     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsftdv0qvhRq6_5defmt6export18acquire_and_header)
+   13b0c    13b0c        0     1                 $t
+   13b0d    13b0d       1e     1                 defmt::export::acquire_and_header
+   13b2a    13b2a       22     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsftdv0qvhRq6_5defmt6export26acquire_header_and_release)
+   13b2a    13b2a        0     1                 $t
+   13b2b    13b2b       22     1                 defmt::export::acquire_header_and_release
+   13b4c    13b4c       10     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs3_NtCsftdv0qvhRq6_5defmt6exportNtB5_8FmtWriteNtNtCsbAcUeWOp6Jo_4core3fmt5Write9write_str)
+   13b4c    13b4c        0     1                 $t
+   13b4d    13b4d       10     1                 <defmt::export::FmtWrite as core::fmt::Write>::write_str
+   13b5c    13b5c       74     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYNtNtCsftdv0qvhRq6_5defmt6export8FmtWriteNtNtCsbAcUeWOp6Jo_4core3fmt5Write10write_charB6_)
+   13b5c    13b5c        0     1                 $t
+   13b5d    13b5d       74     1                 <defmt::export::FmtWrite as core::fmt::Write>::write_char
+   13bd0    13bd0       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYNtNtCsftdv0qvhRq6_5defmt6export8FmtWriteNtNtCsbAcUeWOp6Jo_4core3fmt5Write9write_fmtB6_)
+   13bd0    13bd0        0     1                 $t
+   13bd1    13bd1       14     1                 <defmt::export::FmtWrite as core::fmt::Write>::write_fmt
+   13be0    13be0        0     1                 $d
+   13be4    13be4       18     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.unlikely.__defmt_default_panic)
+   13be4    13be4        0     1                 $t
+   13be5    13be5       18     1                 __defmt_default_panic
+   13bf4    13bf4        0     1                 $d
+   13bfc    13bfc       8e     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCshQVntUQMVxv_9defmt_rtt7channelNtB2_7Channel14blocking_write)
+   13bfc    13bfc        0     1                 $t
+   13bfd    13bfd       8e     1                 <defmt_rtt::channel::Channel>::blocking_write
+   13c8a    13c8a       5a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCshQVntUQMVxv_9defmt_rtt7channelNtB2_7Channel17nonblocking_write)
+   13c8a    13c8a        0     1                 $t
+   13c8b    13c8b       5a     1                 <defmt_rtt::channel::Channel>::nonblocking_write
+   13ce4    13ce4       84     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._defmt_acquire)
+   13ce4    13ce4        0     1                 $t
+   13ce5    13ce5       84     1                 _defmt_acquire
+   13d4c    13d4c        0     1                 $d
+   13d68    13d68       e8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._defmt_release)
+   13d68    13d68        0     1                 $t
+   13d69    13d69       e8     1                 _defmt_release
+   13e34    13e34        0     1                 $d
+   13e50    13e50      15c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._defmt_write)
+   13e50    13e50        0     1                 $t
+   13e51    13e51      15c     1                 _defmt_write
+   13f98    13f98        0     1                 $d
+   13fac    13fac      608     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs0_NtCsixPfvnxjpQ4_22ectf_firmware_template4hostNtB5_8HostUart19write_packet_chunks)
+   13fac    13fac        0     1                 $t
+   13fad    13fad      608     1                 <ectf_firmware_template::host::HostUart>::write_packet_chunks
+   143cc    143cc        0     1                 $d
+   143d4    143d4        0     1                 $t
+   145a8    145a8        0     1                 $d
+   145b4    145b4      2e8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs0_NtCsixPfvnxjpQ4_22ectf_firmware_template4hostNtB5_8HostUart11read_packet)
+   145b4    145b4        0     1                 $t
+   145b5    145b5      2e8     1                 <ectf_firmware_template::host::HostUart>::read_packet
+   14890    14890        0     1                 $d
+   1489c    1489c     1390     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMs3_NtCsixPfvnxjpQ4_22ectf_firmware_template17secure_filesystemNtB5_13ProtectedFile16verify_signature)
+   1489c    1489c        0     1                 $t
+   1489d    1489d     1390     1                 <ectf_firmware_template::secure_filesystem::ProtectedFile>::verify_signature
+   148fc    148fc        0     1                 $d
+   14920    14920        0     1                 $t
+   14d0c    14d0c        0     1                 $d
+   14d20    14d20        0     1                 $t
+   1508c    1508c        0     1                 $d
+   1509c    1509c        0     1                 $t
+   154e8    154e8        0     1                 $d
+   15518    15518        0     1                 $t
+   158fc    158fc        0     1                 $d
+   1592c    1592c        0     1                 $t
+   15c00    15c00        0     1                 $d
+   15c2c    15c2c       d8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template10permission17get_verifying_key)
+   15c2c    15c2c        0     1                 $t
+   15c2d    15c2d       d8     1                 ectf_firmware_template::permission::get_verifying_key
+   15c48    15c48        0     1                 $d
+   15c58    15c58        0     1                 $t
+   15cf0    15cf0        0     1                 $d
+   15d04    15d04      120     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvCs6V1wgPnb80y_4hmac11get_der_keyINtNtNtCsb772zFSDIYh_6digest8core_api7wrapper11CoreWrapperINtNtBD_11ct_variable21CtVariableCoreWrapperNtNtCslBS8xt3UnqR_4sha28core_api13Sha256VarCoreINtNtCsbNQRi0XODz8_7typenum4uint4UIntIB2Y_IB2Y_IB2Y_IB2Y_IB2Y_NtB30_5UTermNtNtB32_3bit2B1ENtB4b_2B0EB4p_EB4p_EB4p_EB4p_ENtB2g_9OidSha256EEECsixPfvnxjpQ4_22ectf_firmware_template)
+   15d04    15d04        0     1                 $t
+   15d05    15d05      120     1                 hmac::get_der_key::<digest::core_api::wrapper::CoreWrapper<digest::core_api::ct_variable::CtVariableCoreWrapper<sha2::core_api::Sha256VarCore, typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UTerm, typenum::bit::B1>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, sha2::OidSha256>>>
+   15e20    15e20        0     1                 $d
+   15e24    15e24      1a0     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template6crypto24aes_gcm_encrypt_in_place)
+   15e24    15e24        0     1                 $t
+   15e25    15e25      1a0     1                 ectf_firmware_template::crypto::aes_gcm_encrypt_in_place
+   15fb8    15fb8        0     1                 $d
+   15fc4    15fc4      124     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvMsl_NtCs1rllwU1xbW0_16curve25519_dalek6scalarNtB6_6Scalar9from_hashINtNtNtCsb772zFSDIYh_6digest8core_api7wrapper11CoreWrapperINtNtB1c_11ct_variable21CtVariableCoreWrapperNtNtCslBS8xt3UnqR_4sha28core_api13Sha512VarCoreINtNtCsbNQRi0XODz8_7typenum4uint4UIntIB3y_IB3y_IB3y_IB3y_IB3y_IB3y_NtB3A_5UTermNtNtB3C_3bit2B1ENtB4Q_2B0EB54_EB54_EB54_EB54_EB54_ENtB2Q_9OidSha512EEECsixPfvnxjpQ4_22ectf_firmware_template)
+   15fc4    15fc4        0     1                 $t
+   15fc5    15fc5      124     1                 <curve25519_dalek::scalar::Scalar>::from_hash::<digest::core_api::wrapper::CoreWrapper<digest::core_api::ct_variable::CtVariableCoreWrapper<sha2::core_api::Sha512VarCore, typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UTerm, typenum::bit::B1>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, typenum::bit::B0>, sha2::OidSha512>>>
+   160e8    160e8      5cc     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template6crypto12run_pipeline)
+   160e8    160e8        0     1                 $t
+   160e9    160e9      5cc     1                 ectf_firmware_template::crypto::run_pipeline
+   1649c    1649c        0     1                 $d
+   164a4    164a4        0     1                 $t
+   16694    16694        0     1                 $d
+   166b4    166b4       b0     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template10permission20get_read_decrypt_key)
+   166b4    166b4        0     1                 $t
+   166b5    166b5       b0     1                 ectf_firmware_template::permission::get_read_decrypt_key
+   166cc    166cc        0     1                 $d
+   166dc    166dc        0     1                 $t
+   16750    16750        0     1                 $d
+   16764    16764      ea8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template14authentication10verify_pin)
+   16764    16764        0     1                 $t
+   16765    16765      ea8     1                 ectf_firmware_template::authentication::verify_pin
+   16df8    16df8        0     1                 $d
+   16dfc    16dfc        0     1                 $t
+   1760c    1760c     1e04     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template6crypto27asymmetric_decrypt_in_place)
+   1760c    1760c        0     1                 $t
+   1760d    1760d     1e04     1                 ectf_firmware_template::crypto::asymmetric_decrypt_in_place
+   176f8    176f8        0     1                 $d
+   17700    17700        0     1                 $t
+   17cf4    17cf4        0     1                 $d
+   17d08    17d08        0     1                 $t
+   18104    18104        0     1                 $d
+   18160    18160        0     1                 $t
+   1855c    1855c        0     1                 $d
+   18578    18578        0     1                 $t
+   1872c    1872c        0     1                 $d
+   18738    18738        0     1                 $t
+   18c94    18c94        0     1                 $d
+   18ca0    18ca0        0     1                 $t
+   19328    19328        0     1                 $d
+   1932c    1932c        0     1                 $t
+   193ec    193ec        0     1                 $d
+   19410    19410      2e4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCsixPfvnxjpQ4_22ectf_firmware_template7command15cmd_interrogate)
+   19410    19410        0     1                 $t
+   19411    19411      2e4     1                 ectf_firmware_template::command::cmd_interrogate
+   19580    19580        0     1                 $d
+   19590    19590        0     1                 $t
+   196a0    196a0        0     1                 $d
+   196f4    196f4       80     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs_NtCsixPfvnxjpQ4_22ectf_firmware_template4hostNtB4_9MsgStatusNtNtCsbAcUeWOp6Jo_4core3fmt7Display3fmt)
+   196f4    196f4        0     1                 $t
+   196f5    196f5       80     1                 <ectf_firmware_template::host::MsgStatus as core::fmt::Display>::fmt
+   19704    19704        0     1                 $d
+   1970a    1970a        0     1                 $t
+   1975c    1975c        0     1                 $d
+   19774    19774       2a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj80_EENtNtB1G_3fmt5Write9write_strCsixPfvnxjpQ4_22ectf_firmware_template)
+   19774    19774        0     1                 $t
+   19775    19775       2a     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 128]>> as core::fmt::Write>::write_str
+   1979e    1979e       b6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsd_NtCscnJvzfomVjA_8heapless6stringINtB5_11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj80_EENtNtB1G_3fmt5Write10write_charCsixPfvnxjpQ4_22ectf_firmware_template)
+   1979e    1979e        0     1                 $t
+   1979f    1979f       b6     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 128]>> as core::fmt::Write>::write_char
+   19854    19854       14     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvYINtNtCscnJvzfomVjA_8heapless6string11StringInnerjINtNtNtB7_3vec7storage15VecStorageInnerAINtNtNtCsbAcUeWOp6Jo_4core3mem12maybe_uninit11MaybeUninithEj80_EENtNtB1A_3fmt5Write9write_fmtCsixPfvnxjpQ4_22ectf_firmware_template)
+   19854    19854        0     1                 $t
+   19855    19855       14     1                 <heapless::string::StringInner<usize, heapless::vec::storage::VecStorageInner<[core::mem::maybe_uninit::MaybeUninit<u8>; 128]>> as core::fmt::Write>::write_fmt
+   19864    19864        0     1                 $d
+   19868    19868      100     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1i_NtCsbAcUeWOp6Jo_4core3fmtRlNtB6_7Display3fmtCsixPfvnxjpQ4_22ectf_firmware_template)
+   19868    19868        0     1                 $t
+   19869    19869      100     1                 <&i32 as core::fmt::Display>::fmt
+   19958    19958        0     1                 $d
+   19968    19968       8c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXNtCsixPfvnxjpQ4_22ectf_firmware_template17secure_filesystemNtB2_7FsErrorNtNtCsbAcUeWOp6Jo_4core3fmt7Display3fmt)
+   19968    19968        0     1                 $t
+   19969    19969       8c     1                 <ectf_firmware_template::secure_filesystem::FsError as core::fmt::Display>::fmt
+   1997c    1997c        0     1                 $d
+   19986    19986        0     1                 $t
+   199d0    199d0        0     1                 $d
+   199f4    199f4       7c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXNtCsixPfvnxjpQ4_22ectf_firmware_template6cryptoNtB2_11CryptoErrorNtNtCsbAcUeWOp6Jo_4core3fmt7Display3fmt)
+   199f4    199f4        0     1                 $t
+   199f5    199f5       7c     1                 <ectf_firmware_template::crypto::CryptoError as core::fmt::Display>::fmt
+   19a08    19a08        0     1                 $d
+   19a10    19a10        0     1                 $t
+   19a50    19a50        0     1                 $d
+   19a70    19a70       9c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs0_NtCsixPfvnxjpQ4_22ectf_firmware_template17secure_filesystemNtB5_9FileErrorNtNtCsbAcUeWOp6Jo_4core3fmt7Display3fmt)
+   19a70    19a70        0     1                 $t
+   19a71    19a71       9c     1                 <ectf_firmware_template::secure_filesystem::FileError as core::fmt::Display>::fmt
+   19a8c    19a8c        0     1                 $d
+   19a92    19a92        0     1                 $t
+   19af0    19af0        0     1                 $d
+   19b0c    19b0c       80     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1i_NtCsbAcUeWOp6Jo_4core3fmtRNtNtCsixPfvnxjpQ4_22ectf_firmware_template6crypto11CryptoErrorNtB6_7Display3fmtBA_)
+   19b0c    19b0c        0     1                 $t
+   19b0d    19b0d       80     1                 <&ectf_firmware_template::crypto::CryptoError as core::fmt::Display>::fmt
+   19b24    19b24        0     1                 $d
+   19b2c    19b2c        0     1                 $t
+   19b6c    19b6c        0     1                 $d
+   19b8c    19b8c       f4     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.DMA)
+   19b8c    19b8c        0     1                 $t
+   19b8d    19b8d       f4     1                 DMA
+   19c4c    19c4c        0     1                 $d
+   19c80    19c80       3c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.GROUP0)
+   19c80    19c80        0     1                 $t
+   19c81    19c81       3c     1                 GROUP0
+   19c98    19c98        0     1                 $d
+   19ca0    19ca0        0     1                 $t
+   19cb8    19cb8        0     1                 $d
+   19cbc    19cbc      1fc     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.GROUP1)
+   19cbc    19cbc        0     1                 $t
+   19cbd    19cbd      1fc     1                 GROUP1
+   19cd8    19cd8        0     1                 $d
+   19ce0    19ce0        0     1                 $t
+   19e74    19e74        0     1                 $d
+   19eb8    19eb8        a     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text.TIMG0)
+   19eb8    19eb8        0     1                 $t
+   19eb9    19eb9        a     1                 TIMG0
+   19ec4    19ec4      1ec     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCs92UkCUUqvBC_13embassy_mspm011time_driverNtB2_10TimxDriver12on_interrupt)
+   19ec4    19ec4        0     1                 $t
+   19ec5    19ec5      1ec     1                 <embassy_mspm0::time_driver::TimxDriver>::on_interrupt
+   1a098    1a098        0     1                 $d
+   1a0b0    1a0b0       54     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCs92UkCUUqvBC_13embassy_mspm011time_driverNtB2_10TimxDriver11next_period)
+   1a0b0    1a0b0        0     1                 $t
+   1a0b1    1a0b1       54     1                 <embassy_mspm0::time_driver::TimxDriver>::next_period
+   1a0fc    1a0fc        0     1                 $d
+   1a104    1a104       a8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMNtCs92UkCUUqvBC_13embassy_mspm011time_driverNtB2_10TimxDriver4init)
+   1a104    1a104        0     1                 $t
+   1a105    1a105       a8     1                 <embassy_mspm0::time_driver::TimxDriver>::init
+   1a17c    1a17c        0     1                 $d
+   1a1ac    1a1ac      1d8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCs92UkCUUqvBC_13embassy_mspm010__generated10gpio_pincm)
+   1a1ac    1a1ac        0     1                 $t
+   1a1ad    1a1ad      1d8     1                 embassy_mspm0::_generated::gpio_pincm
+   1a1c4    1a1c4        0     1                 $d
+   1a258    1a258        0     1                 $t
+   1a380    1a380        0     1                 $d
+   1a384    1a384       58     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCs92UkCUUqvBC_13embassy_mspm04gpio6set_pf)
+   1a384    1a384        0     1                 $t
+   1a385    1a385       58     1                 embassy_mspm0::gpio::set_pf
+   1a3c8    1a3c8        0     1                 $d
+   1a3dc    1a3dc      574     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCs92UkCUUqvBC_13embassy_mspm04uart9configure)
+   1a3dc    1a3dc        0     1                 $t
+   1a3dd    1a3dd      574     1                 embassy_mspm0::uart::configure
+   1a800    1a800        0     1                 $d
+   1a81c    1a81c        0     1                 $t
+   1a934    1a934        0     1                 $d
+   1a950    1a950       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsftdv0qvhRq6_5defmt6export3fmthECs92UkCUUqvBC_13embassy_mspm0)
+   1a950    1a950        0     1                 $t
+   1a951    1a951       28     1                 defmt::export::fmt::<u8>
+   1a974    1a974        0     1                 $d
+   1a978    1a978       28     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RINvNtCsftdv0qvhRq6_5defmt6export3fmtmECs92UkCUUqvBC_13embassy_mspm0)
+   1a978    1a978        0     1                 $t
+   1a979    1a979       28     1                 defmt::export::fmt::<u32>
+   1a99c    1a99c        0     1                 $d
+   1a9a0    1a9a0      26c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvMsg_NtCs92UkCUUqvBC_13embassy_mspm04trngNtB5_9TrngInner3new)
+   1a9a0    1a9a0        0     1                 $t
+   1a9a1    1a9a1      26c     1                 <embassy_mspm0::trng::TrngInner>::new
+   1abf8    1abf8        0     1                 $d
+   1ac0c    1ac0c      310     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXsi_NtCs92UkCUUqvBC_13embassy_mspm04trngNtB5_9TrngInnerNtCsewkrLIfa49K_9rand_core10TryRngCore14try_fill_bytes)
+   1ac0c    1ac0c        0     1                 $t
+   1ac0d    1ac0d      310     1                 <embassy_mspm0::trng::TrngInner as rand_core::TryRngCore>::try_fill_bytes
+   1af10    1af10        0     1                 $d
+   1af1c    1af1c       78     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvCs5WqGp7zLRnA_7___rustc17rust_begin_unwind)
+   1af1c    1af1c        0     1                 $t
+   1af1d    1af1d       78     1                 __rustc::rust_begin_unwind
+   1af74    1af74        0     1                 $d
+   1af94    1af94       94     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvXs1i_NtCsbAcUeWOp6Jo_4core3fmtRNtNtNtB8_5panic10panic_info9PanicInfoNtB6_7Display3fmtCsgz7ANtDXtJK_11panic_probe)
+   1af94    1af94        0     1                 $t
+   1af95    1af95       94     1                 <&core::panic::panic_info::PanicInfo as core::fmt::Display>::fmt
+   1b014    1b014        0     1                 $d
+   1b028    1b028     25a0     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCslBS8xt3UnqR_4sha26sha25611compress256)
+   1b028    1b028        0     1                 $t
+   1b029    1b029     25a0     1                 sha2::sha256::compress256
+   1b4c8    1b4c8        0     1                 $d
+   1b4e8    1b4e8        0     1                 $t
+   1b8e4    1b8e4        0     1                 $d
+   1b904    1b904        0     1                 $t
+   1bd28    1bd28        0     1                 $d
+   1bd44    1bd44        0     1                 $t
+   1c158    1c158        0     1                 $d
+   1c174    1c174        0     1                 $t
+   1c588    1c588        0     1                 $d
+   1c5a4    1c5a4        0     1                 $t
+   1c9b0    1c9b0        0     1                 $d
+   1c9cc    1c9cc        0     1                 $t
+   1cde8    1cde8        0     1                 $d
+   1ce04    1ce04        0     1                 $t
+   1d218    1d218        0     1                 $d
+   1d234    1d234        0     1                 $t
+   1d5b0    1d5b0        0     1                 $d
+   1d5c8    1d5c8     69c8     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.text._RNvNtCslBS8xt3UnqR_4sha26sha51211compress512)
+   1d5c8    1d5c8        0     1                 $t
+   1d5c9    1d5c9     69c8     1                 sha2::sha512::compress512
+   1da58    1da58        0     1                 $d
+   1da78    1da78        0     1                 $t
+   1df38    1df38        0     1                 $d
+   1df58    1df58        0     1                 $t
+   1e3e8    1e3e8        0     1                 $d
+   1e408    1e408        0     1                 $t
+   1e858    1e858        0     1                 $d
+   1e878    1e878        0     1                 $t
+   1ed0c    1ed0c        0     1                 $d
+   1ed24    1ed24        0     1                 $t
+   1f128    1f128        0     1                 $d
+   1f140    1f140        0     1                 $t
+   1f544    1f544        0     1                 $d
+   1f55c    1f55c        0     1                 $t
+   1f960    1f960        0     1                 $d
+   1f978    1f978        0     1                 $t
+   1fd7c    1fd7c        0     1                 $d
+   1fd94    1fd94        0     1                 $t
+   2018c    2018c        0     1                 $d
+   201a4    201a4        0     1                 $t
+   205a4    205a4        0     1                 $d
+   205bc    205bc        0     1                 $t
+   209b4    209b4        0     1                 $d
+   209cc    209cc        0     1                 $t
+   20dcc    20dcc        0     1                 $d
+   20de4    20de4        0     1                 $t
+   211e0    211e0        0     1                 $d
+   211f8    211f8        0     1                 $t
+   215fc    215fc        0     1                 $d
+   21614    21614        0     1                 $t
+   21a0c    21a0c        0     1                 $d
+   21a24    21a24        0     1                 $t
+   21e2c    21e2c        0     1                 $d
+   21e44    21e44        0     1                 $t
+   22240    22240        0     1                 $d
+   22258    22258        0     1                 $t
+   2265c    2265c        0     1                 $d
+   22674    22674        0     1                 $t
+   22a7c    22a7c        0     1                 $d
+   22a94    22a94        0     1                 $t
+   22e9c    22e9c        0     1                 $d
+   22eb4    22eb4        0     1                 $t
+   232ac    232ac        0     1                 $d
+   232c4    232c4        0     1                 $t
+   236c0    236c0        0     1                 $d
+   236d8    236d8        0     1                 $t
+   23ad4    23ad4        0     1                 $d
+   23aec    23aec        0     1                 $t
+   23ef4    23ef4        0     1                 $d
+   23efc    23efc        0     1                 $t
+   23f78    23f78        0     1                 $d
+   23f90    23f90       2e     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.text.memcmp)
+   23f90    23f90        0     1                 $t
+   23f91    23f91       2e     1                 memcmp
+   23fbe    23fbe       9a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.text.__aeabi_memclr8)
+   23fbe    23fbe        0     1                 $t
+   23fbf    23fbf       9a     1                 __aeabi_memclr8
+   24058    24058        a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.text.__aeabi_uidiv)
+   24058    24058        0     1                 $t
+   24059    24059        a     1                 __aeabi_uidiv
+   24062    24062      186     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.text._RNvNtNtCs1x9sIouGYxr_17compiler_builtins3int19specialized_div_rem11u32_div_rem.llvm.213880294027800147)
+   24062    24062        0     1                 $t
+   24063    24063      186     1                 compiler_builtins::int::specialized_div_rem::u32_div_rem (.llvm.213880294027800147)
+   241e8    241e8      37c     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.text._RNvNtNtCs1x9sIouGYxr_17compiler_builtins3int19specialized_div_rem11u64_div_rem)
+   241e8    241e8        0     1                 $t
+   241e9    241e9      37c     1                 compiler_builtins::int::specialized_div_rem::u64_div_rem
+   24564    24564       b8     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.text.__aeabi_memclr)
+   24564    24564        0     1                 $t
+   24565    24565       b8     1                 __aeabi_memclr
+   2461c    2461c       6e     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.text.__aeabi_memcpy8)
+   2461c    2461c        0     1                 $t
+   2461d    2461d       6e     1                 __aeabi_memcpy8
+   2468a    2468a      21a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.text._RNvNtCs1x9sIouGYxr_17compiler_builtins3mem6memcpy)
+   2468a    2468a        0     1                 $t
+   2468b    2468b      21a     1                 compiler_builtins::mem::memcpy
+   248a4    248a4      506     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.text._RNvNtCs1x9sIouGYxr_17compiler_builtins3mem7memmove)
+   248a4    248a4        0     1                 $t
+   248a5    248a5      506     1                 compiler_builtins::mem::memmove
+   24daa    24daa       4a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.text.__aeabi_lmul)
+   24daa    24daa        0     1                 $t
+   24dab    24dab       4a     1                 __aeabi_lmul
+   24df4    24df4        a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.text.__aeabi_memmove)
+   24df4    24df4        0     1                 $t
+   24df5    24df5        a     1                 __aeabi_memmove
+   24dfe    24dfe       9a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.text.__aeabi_memclr4)
+   24dfe    24dfe        0     1                 $t
+   24dff    24dff       9a     1                 __aeabi_memclr4
+   24e98    24e98       6e     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.text.__aeabi_memcpy4)
+   24e98    24e98        0     1                 $t
+   24e99    24e99       6e     1                 __aeabi_memcpy4
+   24f06    24f06        a     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.text.__aeabi_memcpy)
+   24f06    24f06        0     1                 $t
+   24f07    24f07        a     1                 __aeabi_memcpy
+   24f10    24f10       2e     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.text.__aeabi_llsl)
+   24f10    24f10        0     1                 $t
+   24f11    24f11       2e     1                 __aeabi_llsl
+   24f3e    24f3e       30     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.text.__aeabi_llsr)
+   24f3e    24f3e        0     1                 $t
+   24f3f    24f3f       30     1                 __aeabi_llsr
+   24f70    24f70       14     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.460.rcgu.o):(.text.__aeabi_uldivmod)
+   24f70    24f70        0     1                 $t
+   24f71    24f71       14     1                 __aeabi_uldivmod
+   24f84    24f84       2c     2         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.text.__udivmoddi4)
+   24f84    24f84        0     1                 $t
+   24f85    24f85       2c     1                 __udivmoddi4
+   24fb0    24fb0       18     4         <internal>:(.text.thunk)
+   24fc8    24fc8        6     2         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.HardFault.default)
+   24fc8    24fc8        0     1                 $t
+   24fc9    24fc9        6     1                 HardFault_
+   24fce    24fce        2     1         . = ALIGN(4)
+   24fd0    24fd0        0     1         __etext = .
+   24fd0    24fd0        0     4 .rodata
+   24fd0    24fd0        0     1         . = ALIGN(4)
+   24fd0    24fd0        0     1         __srodata = .
+   24fd0    24fd0        0     1         . = ALIGN(4)
+   24fd0    24fd0        0     1         __erodata = .
+20200000    24fd0      2e0     8 .data
+20200000    24fd0        0     1         . = ALIGN(4)
+20200000    24fd0        0     1         __sdata = .
+20200000    24fd0      28c     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.data)
+20200000    24fd0        0     1                 $t
+20200001    24fd1      124     1                 ectf_firmware_template::flash::flash_simple_write
+20200118    250e8        0     1                 $d
+20200124    250f4        0     1                 $t
+20200125    250f5        e     1                 ectf_firmware_template::flash::clear_status_blocking
+20200135    25105       1c     1                 ectf_firmware_template::flash::unprotect_sectors
+2020014c    2511c        0     1                 $d
+20200150    25120        0     1                 $t
+20200151    25121       b8     1                 ectf_firmware_template::flash::wait_cmd_done
+20200200    251d0        0     1                 $d
+20200208    251d8        0     1                 $t
+20200209    251d9       14     1                 ectf_firmware_template::flash::clear_status
+20200218    251e8        0     1                 $d
+2020021c    251ec        0     1                 $t
+2020021d    251ed       3c     1                 ectf_firmware_template::flash::flash_simple_erase_page
+20200254    25224        0     1                 $d
+20200258    25228        0     1                 $t
+20200259    25229       34     1                 ectf_firmware_template::flash::are_sectors_unprotected
+20200288    25258        0     1                 $d
+2020028c    2525c        6     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.data.defmt-rtt.NAME)
+2020028c    2525c        6     1                 defmt_rtt::NAME
+20200294    25264       30     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.data._SEGGER_RTT)
+20200294    25264       30     1                 _SEGGER_RTT
+202002c8    25298       18     8         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.data._RNvNtCs92UkCUUqvBC_13embassy_mspm011time_driver6DRIVER)
+202002c8    25298       18     1                 embassy_mspm0::time_driver::DRIVER
+202002e0    252b0        0     1         . = ALIGN(4)
+202002e0    252b0        0     1 . = ALIGN(4)
+202002e0    252b0        0     1 __edata = .
+202002e0    252b0        0     1 __sidata = LOADADDR(.data)
+   252c0    252c0        0    32 .gnu.sgstubs
+   252c0    252c0        0     1         . = ALIGN(32)
+   252c0    252c0        0     1         __veneer_base = .
+   252c0    252c0        0     1         . = ALIGN(32)
+   252c0    252c0        0     1 . = ALIGN(32)
+   252c0    252c0        0     1 __veneer_limit = .
+202002e0 202002e0      3d4     4 .bss
+202002e0 202002e0        0     1         . = ALIGN(4)
+202002e0 202002e0        0     1         __sbss = .
+202002e0 202002e0       88     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvCsixPfvnxjpQ4_22ectf_firmware_template10GLOBAL_RNG)
+202002e0 202002e0       88     1                 ectf_firmware_template::GLOBAL_RNG
+20200368 20200368       38     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvNtCs92UkCUUqvBC_13embassy_mspm03dma5STATE)
+20200368 20200368       38     1                 embassy_mspm0::dma::STATE
+202003a0 202003a0      100     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvNtCs92UkCUUqvBC_13embassy_mspm04gpio12PORTA_WAKERS)
+202003a0 202003a0      100     1                 embassy_mspm0::gpio::PORTA_WAKERS
+202004a0 202004a0      100     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvNtCs92UkCUUqvBC_13embassy_mspm04gpio12PORTB_WAKERS)
+202004a0 202004a0      100     1                 embassy_mspm0::gpio::PORTB_WAKERS
+202005a0 202005a0      100     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvNtCs92UkCUUqvBC_13embassy_mspm04gpio12PORTC_WAKERS)
+202005a0 202005a0      100     1                 embassy_mspm0::gpio::PORTC_WAKERS
+202006a0 202006a0        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss._RNvNvNtCsgz7ANtDXtJK_11panic_probe3imp5panic8PANICKED.0)
+202006a0 202006a0        1     1                 panic_probe::imp::panic::PANICKED (.0)
+202006a4 202006a4       10     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.bss..L_MergedGlobals)
+202006a4 202006a4        1     1                 defmt_rtt::RTT_ENCODER (.0)
+202006a5 202006a5        1     1                 defmt_rtt::RTT_ENCODER (.1)
+202006a6 202006a6        1     1                 defmt_rtt::RTT_ENCODER (.2)
+202006a7 202006a7        1     1                 defmt_rtt::RTT_ENCODER (.3)
+202006a8 202006a8        1     1                 defmt_rtt::RTT_ENCODER (.4)
+202006a9 202006a9        1     1                 _EMBASSY_DEVICE_PERIPHERALS
+202006ac 202006ac        4     1                 <embassy_mspm0::_generated::peripherals::UART0 as embassy_mspm0::uart::SealedInstance>::state::STATE
+202006b0 202006b0        4     1                 <embassy_mspm0::_generated::peripherals::UART1 as embassy_mspm0::uart::SealedInstance>::state::STATE
+202006b4 202006b4        0     1         . = ALIGN(4)
+202006b4 202006b4        0     1 . = ALIGN(4)
+202006b4 202006b4        0     1 __ebss = .
+202006b4 202006b4      400     4 .uninit
+202006b4 202006b4        0     1         . = ALIGN(4)
+202006b4 202006b4        0     1         __suninit = .
+202006b4 202006b4      400     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.uninit.defmt-rtt.BUFFER)
+202006b4 202006b4      400     1                 defmt_rtt::BUFFER
+20200ab4 20200ab4        0     1         . = ALIGN(4)
+20200ab4 20200ab4        0     1         __euninit = .
+20200ab4 20200ab4        0     1 PROVIDE(__sheap = __euninit)
+20200ab4 20200ab4        0     1 PROVIDE(_stack_end = __euninit)
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 PROVIDE(TIMG12 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(UART4 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(ADC0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(SPI0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(SPI1 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(UART2 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(UART3 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(UART0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(UART1 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(TIMA0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(TIMG8 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(TIMG4 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(TIMG5 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(I2C0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(I2C1 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(I2C2 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(AESADV = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(LCD = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(LFSS = DefaultHandler)
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 PROVIDE(_defmt_timestamp = __defmt_default_timestamp)
+20200ab4 20200ab4        0     1 PROVIDE(_defmt_panic = __defmt_default_panic)
+       0        0       14     1 .defmt
+       0        0        1     1         . = 1
+       1        1        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u32}","disambiguator":"18002156870105039004","crate_name":"defmt"})
+       1        1        1     1                 {"package":"defmt","tag":"defmt_prim","data":"{=u32}","disambiguator":"18002156870105039004","crate_name":"defmt"}
+       2        2        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=u8}","disambiguator":"1806638649918704131","crate_name":"defmt"})
+       2        2        1     1                 {"package":"defmt","tag":"defmt_prim","data":"{=u8}","disambiguator":"1806638649918704131","crate_name":"defmt"}
+       3        3        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.prim.{"package":"defmt","tag":"defmt_prim","data":"{=__internal_Display}","disambiguator":"14158116662542268607","crate_name":"defmt"})
+       3        3        1     1                 {"package":"defmt","tag":"defmt_prim","data":"{=__internal_Display}","disambiguator":"14158116662542268607","crate_name":"defmt"}
+       4        4        0     1         __DEFMT_MARKER_TRACE_START = .
+       4        4        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.trace.{"package":"embassy-mspm0","tag":"defmt_trace","data":"BRD was invalid: trying another divider","disambiguator":"6170588529897963854","crate_name":"embassy_mspm0"})
+       4        4        1     1                 {"package":"embassy-mspm0","tag":"defmt_trace","data":"BRD was invalid: trying another divider","disambiguator":"6170588529897963854","crate_name":"embassy_mspm0"}
+       5        5        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.trace.{"package":"embassy-mspm0","tag":"defmt_trace","data":"Calculating BRD overflowed: trying another divider","disambiguator":"5789568338624022586","crate_name":"embassy_mspm0"})
+       5        5        1     1                 {"package":"embassy-mspm0","tag":"defmt_trace","data":"Calculating BRD overflowed: trying another divider","disambiguator":"5789568338624022586","crate_name":"embassy_mspm0"}
+       6        6        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.trace.{"package":"embassy-mspm0","tag":"defmt_trace","data":"Trying div: {}, oversampling {} for {} baud","disambiguator":"16569848287056470519","crate_name":"embassy_mspm0"})
+       6        6        1     1                 {"package":"embassy-mspm0","tag":"defmt_trace","data":"Trying div: {}, oversampling {} for {} baud","disambiguator":"16569848287056470519","crate_name":"embassy_mspm0"}
+       7        7        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.trace.{"package":"embassy-mspm0","tag":"defmt_trace","data":"{} oversampling is too high for clock: {} Hz","disambiguator":"17805956901291806000","crate_name":"embassy_mspm0"})
+       7        7        1     1                 {"package":"embassy-mspm0","tag":"defmt_trace","data":"{} oversampling is too high for clock: {} Hz","disambiguator":"17805956901291806000","crate_name":"embassy_mspm0"}
+       8        8        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.trace.{"package":"embassy-mspm0","tag":"defmt_trace","data":"{}x oversampling would cause overflow for clock: {} Hz","disambiguator":"16821022418938929446","crate_name":"embassy_mspm0"})
+       8        8        1     1                 {"package":"embassy-mspm0","tag":"defmt_trace","data":"{}x oversampling would cause overflow for clock: {} Hz","disambiguator":"16821022418938929446","crate_name":"embassy_mspm0"}
+       9        9        0     1         __DEFMT_MARKER_TRACE_END = .
+       9        9        0     1         __DEFMT_MARKER_DEBUG_START = .
+       9        9        0     1         __DEFMT_MARKER_DEBUG_END = .
+       9        9        0     1         __DEFMT_MARKER_INFO_START = .
+       9        9        0     1         __DEFMT_MARKER_INFO_END = .
+       9        9        0     1         __DEFMT_MARKER_WARN_START = .
+       9        9        0     1         __DEFMT_MARKER_WARN_END = .
+       9        9        0     1         __DEFMT_MARKER_ERROR_START = .
+       9        9        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"ectf-firmware-template","tag":"defmt_error","data":"panicked at 'unwrap failed: Uart :: new_blocking(p.UART0, p.PA11, p.PA10, config)'\nerror: `{:?}`","disambiguator":"5626785448979823542","crate_name":"ectf_firmware_template"})
+       9        9        1     1                 {"package":"ectf-firmware-template","tag":"defmt_error","data":"panicked at 'unwrap failed: Uart :: new_blocking(p.UART0, p.PA11, p.PA10, config)'\nerror: `{:?}`","disambiguator":"5626785448979823542","crate_name":"ectf_firmware_template"}
+       a        a        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"ectf-firmware-template","tag":"defmt_error","data":"panicked at 'unwrap failed: Uart :: new_blocking(p.UART1, p.PA9, p.PA8, config)'\nerror: `{:?}`","disambiguator":"8688108541859036001","crate_name":"ectf_firmware_template"})
+       a        a        1     1                 {"package":"ectf-firmware-template","tag":"defmt_error","data":"panicked at 'unwrap failed: Uart :: new_blocking(p.UART1, p.PA9, p.PA8, config)'\nerror: `{:?}`","disambiguator":"8688108541859036001","crate_name":"ectf_firmware_template"}
+       b        b        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'DMA address error'","disambiguator":"11809994375187063028","crate_name":"embassy_mspm0"})
+       b        b        1     1                 {"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'DMA address error'","disambiguator":"11809994375187063028","crate_name":"embassy_mspm0"}
+       c        c        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'DMA data error'","disambiguator":"11059418723562316465","crate_name":"embassy_mspm0"})
+       c        c        1     1                 {"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'DMA data error'","disambiguator":"11059418723562316465","crate_name":"embassy_mspm0"}
+       d        d        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'init called more than once!'","disambiguator":"14334254687536111026","crate_name":"embassy_mspm0"})
+       d        d        1     1                 {"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'init called more than once!'","disambiguator":"14334254687536111026","crate_name":"embassy_mspm0"}
+       e        e        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'internal error: entered unreachable code'","disambiguator":"16694418014250537987","crate_name":"embassy_mspm0"})
+       e        e        1     1                 {"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'internal error: entered unreachable code'","disambiguator":"16694418014250537987","crate_name":"embassy_mspm0"}
+       f        f        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'internal error: entered unreachable code: Unexpected TRNG health failure type'","disambiguator":"10241527289882338542","crate_name":"embassy_mspm0"})
+       f        f        1     1                 {"package":"embassy-mspm0","tag":"defmt_error","data":"panicked at 'internal error: entered unreachable code: Unexpected TRNG health failure type'","disambiguator":"10241527289882338542","crate_name":"embassy_mspm0"}
+      10       10        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.error.{"package":"panic-probe","tag":"defmt_error","data":"{}","disambiguator":"3281125884690968605","crate_name":"panic_probe"})
+      10       10        1     1                 {"package":"panic-probe","tag":"defmt_error","data":"{}","disambiguator":"3281125884690968605","crate_name":"panic_probe"}
+      11       11        0     1         __DEFMT_MARKER_ERROR_END = .
+      11       11        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.end)
+      11       11        1     1                 _defmt_encoding_ = rzcobs
+      12       12        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.end)
+      12       12        1     1                 _defmt_version_ = 4
+      13       13        1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.defmt.{"package":"embassy-mspm0","tag":"defmt_derived","data":"RxOrTxNotEnabled|InvalidBaudRate","disambiguator":"3697852411086982950","crate_name":"embassy_mspm0"})
+      13       13        1     1                 {"package":"embassy-mspm0","tag":"defmt_derived","data":"RxOrTxNotEnabled|InvalidBaudRate","disambiguator":"3697852411086982950","crate_name":"embassy_mspm0"}
+      14       14        0     1         __DEFMT_MARKER_END = .
+20200ab4 20200ab4        0     1 
+20200ab4 20200ab4        0     1 PROVIDE(WWDT0 = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(DEBUGSS = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(FLASHCTL = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(SYSCTL = DefaultHandler)
+20200ab4 20200ab4        0     1 PROVIDE(COMP0 = DefaultHandler)
+       0        0    c85dd     1 .debug_loc
+       0        0    c85dd     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_loc)
+       0        0     1993     1 .debug_abbrev
+       0        0      f5b     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_abbrev)
+     f5b      f5b       5b     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_abbrev)
+     fb6      fb6       d6     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_abbrev)
+    108c     108c       5f     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.debug_abbrev)
+    10eb     10eb       90     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_abbrev)
+    117b     117b       9b     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_abbrev)
+    1216     1216       e9     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_abbrev)
+    12ff     12ff       9f     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_abbrev)
+    139e     139e      13b     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_abbrev)
+    14d9     14d9       bf     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_abbrev)
+    1598     1598       5f     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.debug_abbrev)
+    15f7     15f7       d6     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_abbrev)
+    16cd     16cd       8e     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_abbrev)
+    175b     175b       5f     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.debug_abbrev)
+    17ba     17ba       bd     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_abbrev)
+    1877     1877       bd     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_abbrev)
+    1934     1934       5f     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.debug_abbrev)
+       0        0    8e964     1 .debug_info
+       0        0    8c304     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_info)
+   8c304    8c304       86     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_info)
+   8c38a    8c38a      1f2     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_info)
+   8c57c    8c57c       a1     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.debug_info)
+   8c61d    8c61d      1c4     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_info)
+   8c7e1    8c7e1      429     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_info)
+   8cc0a    8cc0a      29c     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_info)
+   8cea6    8cea6      127     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_info)
+   8cfcd    8cfcd      cc8     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_info)
+   8dc95    8dc95      354     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_info)
+   8dfe9    8dfe9       95     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.debug_info)
+   8e07e    8e07e      1f2     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_info)
+   8e270    8e270      109     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_info)
+   8e379    8e379       95     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.debug_info)
+   8e40e    8e40e      26c     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_info)
+   8e67a    8e67a      249     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_info)
+   8e8c3    8e8c3       a1     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.debug_info)
+       0        0     1ac0     1 .debug_aranges
+       0        0     1860     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_aranges)
+    1860     1860       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_aranges)
+    1880     1880       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_aranges)
+    18a0     18a0       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.debug_aranges)
+    18c0     18c0       68     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_aranges)
+    1928     1928       28     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_aranges)
+    1950     1950       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_aranges)
+    1970     1970       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_aranges)
+    1990     1990       30     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_aranges)
+    19c0     19c0       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_aranges)
+    19e0     19e0       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.debug_aranges)
+    1a00     1a00       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_aranges)
+    1a20     1a20       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_aranges)
+    1a40     1a40       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.debug_aranges)
+    1a60     1a60       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_aranges)
+    1a80     1a80       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_aranges)
+    1aa0     1aa0       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.debug_aranges)
+       0        0    21250     1 .debug_ranges
+       0        0    20910     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_ranges)
+   20910    20910       18     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_ranges)
+   20928    20928       60     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_ranges)
+   20988    20988      120     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_ranges)
+   20aa8    20aa8      100     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_ranges)
+   20ba8    20ba8       60     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_ranges)
+   20c08    20c08       30     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_ranges)
+   20c38    20c38      500     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_ranges)
+   21138    21138       20     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_ranges)
+   21158    21158       60     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_ranges)
+   211b8    211b8       30     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_ranges)
+   211e8    211e8       38     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_ranges)
+   21220    21220       30     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_ranges)
+       0        0    8516e     1 .debug_str
+       0        0    8516e     1         <internal>:(.debug_str)
+       0        0       8c     1 .comment
+       0        0       8c     1         <internal>:(.comment)
+       0        0       32     1 .ARM.attributes
+       0        0       32     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.ARM.attributes)
+       0        0     1664     4 .debug_frame
+       0        0     1184     4         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_frame)
+    1184     1184       34     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_frame)
+    11b8     11b8       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_frame)
+    11f0     11f0       30     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.debug_frame)
+    1220     1220      154     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_frame)
+    1374     1374       5c     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_frame)
+    13d0     13d0       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_frame)
+    1408     1408       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_frame)
+    1440     1440       80     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_frame)
+    14c0     14c0       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_frame)
+    14f8     14f8       30     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.debug_frame)
+    1528     1528       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_frame)
+    1560     1560       38     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_frame)
+    1598     1598       30     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.debug_frame)
+    15c8     15c8       34     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_frame)
+    15fc     15fc       34     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_frame)
+    1630     1630       34     4         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.debug_frame)
+       0        0    2673a     1 .debug_line
+       0        0    232a1     1         /home/matty/Projects/ectf-2027-firmware-template/target/thumbv6m-none-eabi/release/build/ectf-firmware-template/d5e0c9354786519a/out/ectf_firmware_template.ectf_firmware_template.f077b1afdb7705ed-cgu.0.rcgu.o:(.debug_line)
+   232a1    232a1       e8     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.091.rcgu.o):(.debug_line)
+   23389    23389      305     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.182.rcgu.o):(.debug_line)
+   2368e    2368e      117     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.184.rcgu.o):(.debug_line)
+   237a5    237a5      4f6     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.056.rcgu.o):(.debug_line)
+   23c9b    23c9b      7f5     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.018.rcgu.o):(.debug_line)
+   24490    24490      38d     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.204.rcgu.o):(.debug_line)
+   2481d    2481d      1d6     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.207.rcgu.o):(.debug_line)
+   249f3    249f3      c0d     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.017.rcgu.o):(.debug_line)
+   25600    25600      36c     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.270.rcgu.o):(.debug_line)
+   2596c    2596c       e2     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.300.rcgu.o):(.debug_line)
+   25a4e    25a4e      305     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.312.rcgu.o):(.debug_line)
+   25d53    25d53      1d6     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.334.rcgu.o):(.debug_line)
+   25f29    25f29       e2     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.354.rcgu.o):(.debug_line)
+   2600b    2600b      306     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.371.rcgu.o):(.debug_line)
+   26311    26311      2fe     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.386.rcgu.o):(.debug_line)
+   2660f    2660f      12b     1         /home/matty/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/thumbv6m-none-eabi/lib/libcompiler_builtins-ddae85c320a515a7.rlib(compiler_builtins-ddae85c320a515a7.compiler_builtins.11e0367e586e409b-cgu.137.rcgu.o):(.debug_line)
+       0        0     2d70     4 .symtab
+       0        0     2d70     4         <internal>:(.symtab)
+       0        0       dd     1 .shstrtab
+       0        0       dd     1         <internal>:(.shstrtab)
+       0        0     4df1     1 .strtab
+       0        0     4df1     1         <internal>:(.strtab)

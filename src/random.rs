@@ -1,0 +1,112 @@
+// rng.rs — Random number generation with hardware TRNG seeding a ChaCha20 CSPRNG.
+
+use chacha20::ChaCha20;
+use chacha20::cipher::{KeyIvInit, StreamCipher};
+use core::num::NonZeroU32;
+use embassy_mspm0::peripherals;
+use embassy_mspm0::trng::Trng;
+use rand_core::{CryptoRng, RngCore};
+use rand_core_09::TryRngCore;
+use zeroize::Zeroize;
+
+/// Errors that can occur during random number generation.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, defmt::Format)]
+pub enum RngError {
+    /// TRNG hardware seed generation failed.
+    SeedFailed,
+    /// CSPRNG initialisation failed.
+    InitFailed,
+    /// Block generation failed.
+    GenerateFailed,
+}
+
+/// Generate N random bytes using the hardware True Random Number Generator (TRNG).
+pub fn trng_gen_seed<const N: usize>() -> Result<[u8; N], RngError> {
+    let mut output = [0; N];
+    // Grab the PAC singleton for the TRNG peripheral. embassy-mspm0 exposes this as a zero-sized
+    // token pointing at the memory-mapped register block.
+    let mut trng =
+        Trng::new(unsafe { peripherals::TRNG::steal() }).map_err(|_| RngError::SeedFailed)?;
+
+    trng.try_fill_bytes(&mut output)
+        .map_err(|_| RngError::SeedFailed)?;
+
+    Ok(output)
+}
+
+/// A ChaCha20-based CSPRNG seeded by the hardware TRNG.
+///
+/// Internally it holds a ChaCha20 stream cipher keyed with 32 bytes of hardware entropy and a
+/// 12-byte random nonce, both sourced from [`trng_gen_seed`].
+pub struct SecureRng {
+    cipher: ChaCha20,
+}
+
+impl SecureRng {
+    // ChaCha20 takes a 256-bit key (32 bytes) and a 96-bit nonce (12 bytes).
+    const KEY_LEN: usize = 32;
+    const NONCE_LEN: usize = 12;
+
+    /// Create and seed a new CSPRNG from the hardware TRNG.
+    pub fn new() -> Result<Self, RngError> {
+        let mut key = trng_gen_seed::<{ Self::KEY_LEN }>().map_err(|_| RngError::InitFailed)?;
+        let mut nonce = trng_gen_seed::<{ Self::NONCE_LEN }>().map_err(|_| RngError::InitFailed)?;
+
+        let cipher = ChaCha20::new((&key).into(), (&nonce).into());
+
+        // Zeroize the stack copies so key material doesn't linger.
+        key.zeroize();
+        nonce.zeroize();
+
+        Ok(Self { cipher })
+    }
+
+    /// Generate N random bytes from the CSPRNG.
+    pub fn random_array<const N: usize>(&mut self) -> Result<[u8; N], RngError> {
+        // Zeroed plaintext → the ciphertext *is* the keystream.
+        let mut output = [0; N];
+        self.cipher
+            .try_apply_keystream(&mut output)
+            .map_err(|_| RngError::GenerateFailed)?;
+        Ok(output)
+    }
+}
+
+// Implement traits from the rng crate for interoperability.
+impl RngCore for SecureRng {
+    fn next_u32(&mut self) -> u32 {
+        let mut bytes: [u8; 4] = [0; 4];
+        loop {
+            match self.cipher.try_write_keystream(&mut bytes) {
+                Ok(()) => break,
+                Err(_) => continue,
+            }
+        }
+        u32::from_le_bytes(bytes)
+    }
+    fn next_u64(&mut self) -> u64 {
+        let mut bytes: [u8; 8] = [0; 8];
+        loop {
+            match self.cipher.try_write_keystream(&mut bytes) {
+                Ok(()) => break,
+                Err(_) => continue,
+            }
+        }
+        u64::from_le_bytes(bytes)
+    }
+
+    fn fill_bytes(&mut self, dst: &mut [u8]) {
+        dst.iter_mut().for_each(|b| *b = 0);
+        self.cipher.apply_keystream(dst);
+    }
+
+    fn try_fill_bytes(&mut self, dst: &mut [u8]) -> Result<(), rand_core::Error> {
+        dst.iter_mut().for_each(|b| *b = 0);
+        self.cipher
+            .try_apply_keystream(dst)
+            .map_err(|_| rand_core::Error::from(NonZeroU32::new(1).unwrap()))?;
+        Ok(())
+    }
+}
+
+impl CryptoRng for SecureRng {}
